@@ -9,13 +9,11 @@ Imagebuilder creates image from github repository which contains Dockerfile and 
 
 ## Variables
 
-### Dockerhub username
+#### Dockerhub credentials
 
-USERNAME
+ENV USERNAME
 
-### Dockerhub password
-
-PASSWORD
+ENV PASSWORD
 
 ## Example run
 
