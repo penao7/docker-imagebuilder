@@ -1,6 +1,6 @@
 # Imagebuilder
 
-Imagebuilder creates image from github repository which contains Dockerfile and pushes it to the current user's Dockerhub repository.
+Imagebuilder creates image from github repository which contains a Dockerfile and pushes it to the current user's Dockerhub repository.
 
 ## Requirements
 
